@@ -1,0 +1,12 @@
+n=int(input());
+m=int(input());
+if(n/2==0):
+print(n)
+elseif
+print(n)
+break
+if(m/2==0):
+print(m)
+elseif
+print(m)
+break
